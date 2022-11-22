@@ -1,11 +1,11 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "thomas.cheavlier"
+  default = "thomas-chevalier"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "app.spring.tche"
+  default     = "app-spring-tche"
 }
 
 variable "location" {
